@@ -14,7 +14,7 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 
 <div align="center">
 
-[<code><img height="200" width="300" src="assets/demo_cvgc.gif" alt="Computer Vision Hand Gesture based Controller"></code>](github.com/Dhi13man/CV-HandGestureControl)
+<code><img height="200" width="300" src="assets/demo_cvgc.gif" alt="Computer Vision Hand Gesture based Controller"></code>
 </div>
 
 ---
@@ -29,8 +29,8 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 
 <div align="center">
 
-[<code><img height="200" width="300" src="assets/demo_numcuts.png" alt="NumCuts: HTML/CSS/JS/Electron based GUI Script Executor"></code>](github.com/Dhi13man/NumCuts) [<code><img height="200" width="300" src="assets/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm"></code>](github.com/Dhi13man/SnakeGameAlgo)
-[<code><img height="200" width="300" src="assets/demo_3DES.png" alt="3D Electrostatics Simulator"></code>](github.com/Dhi13man/3Dimensional-Electrostatics-Simulation)
+<code><img height="200" width="300" src="assets/demo_numcuts.png" alt="NumCuts: HTML/CSS/JS/Electron based GUI Script Executor"></code> <code><img height="200" width="300" src="assets/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm"></code>
+<code><img height="200" width="300" src="assets/demo_3DES.png" alt="3D Electrostatics Simulator"></code>
 </div>
 
 ---
