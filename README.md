@@ -29,7 +29,8 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 
 <div align="center">
 
-[<code><img height="200" width="300" src="assets/demo_numcuts.png" alt="NumCuts: HTML/CSS/JS/Electron based GUI Script Executor"></code>](https://github.com/Dhi13man/NumCuts) [<code><img height="200" width="300" src="assets/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm"></code>](https://github.com/Dhi13man/SnakeGameAlgo)
+[<code><img height="200" width="300" src="assets/demo_numcuts.png" alt="NumCuts: HTML/CSS/JS/Electron based GUI Script Executor"></code>](https://github.com/Dhi13man/NumCuts) 
+[<code><img height="200" width="300" src="assets/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm"></code>](https://github.com/Dhi13man/SnakeGameAlgo)
 [<code><img height="200" width="300" src="assets/demo_3DES.png" alt="3D Electrostatics Simulator"></code>](https://github.com/Dhi13man/3Dimensional-Electrostatics-Simulation)
 </div>
 
@@ -72,13 +73,13 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 <br>
 
 ## More Information:
+<br>
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=dhi13man&show_icons=true&hide_border=true" />
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=dhi13man&show_icons=true&hide_border=true"/>
 </details>
-<br>
 
  
 <details>	
@@ -98,6 +99,6 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 
 <div align="center">
 
-### Hoping my work inspires you, or teaches you something new! ❤️
+## Hoping my work inspires you, or teaches you something new! ❤️
 
 </div>
