@@ -16,7 +16,7 @@ You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me
 
 <div align="center">
 
-[<img height="200" width="300" src="https://drive.google.com/uc?export=view&id=1qiGHchkLuIO60MiqoFrJ99nBualcWr5f" alt="Computer Vision Hand Gesture based Controller">](https://github.com/Dhi13man/CV-HandGestureControl)
+<img height="200" width="300" src="https://drive.google.com/uc?export=view&id=1qiGHchkLuIO60MiqoFrJ99nBualcWr5f" alt="Computer Vision Hand Gesture based Controller">
 </div>
 
 ---
@@ -32,10 +32,10 @@ You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me
 
 <div align="center">
 
-|[<img height="300" width="300" src="assets/demos/demo_safesync.png" alt="SafeSync IoT Dashboard: A full-fledged Employee Management and Workspace Health and Safety ensuring Solution">](https://github.com/Dhi13man/SafeSyncIoT) | [<img height="300" width="300" src="assets/demos/infrawake.jpg" alt="InfrAwake: IoT Driver Safety Solution">](https://www.eminencerobotics.org/)
+|<img height="300" width="300" src="assets/demos/demo_safesync.png" alt="SafeSync IoT Dashboard: A full-fledged Employee Management and Workspace Health and Safety ensuring Solution"> | <img height="300" width="300" src="assets/demos/infrawake.jpg" alt="InfrAwake: IoT Driver Safety Solution">
 -|-
 
-|[<img height="200" width="300" src="assets/demos/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm">](https://github.com/Dhi13man/SnakeGameAlgo) | [<img height="200" width="300" src="assets/demos/demo_3DES.png" alt="3D Electrostatics Simulator">](https://github.com/Dhi13man/3Dimensional-Electrostatics-Simulation)
+|<img height="200" width="300" src="assets/demos/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm"> | <img height="200" width="300" src="assets/demos/demo_3DES.png" alt="3D Electrostatics Simulator">
 -|-
 
 </div>
