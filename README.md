@@ -31,12 +31,17 @@ You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me
 6. Implementing Research Papers for skill building.
 
 <div align="center">
+<table>
+<tr>
+<td><img height="300" width="300" src="assets/demos/demo_safesync.png" alt="SafeSync IoT Dashboard: A full-fledged Employee Management and Workspace Health and Safety ensuring Solution"></td>
+<td><img height="300" width="300" src="assets/demos/infrawake.jpg" alt="InfrAwake: IoT Driver Safety Solution"></td>
+</tr>
 
-|<img height="300" width="300" src="assets/demos/demo_safesync.png" alt="SafeSync IoT Dashboard: A full-fledged Employee Management and Workspace Health and Safety ensuring Solution"> | <img height="300" width="300" src="assets/demos/infrawake.jpg" alt="InfrAwake: IoT Driver Safety Solution">
--|-
-
-|<img height="200" width="300" src="assets/demos/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm"> | <img height="200" width="300" src="assets/demos/demo_3DES.png" alt="3D Electrostatics Simulator">
--|-
+<tr>
+<td><img height="200" width="300" src="assets/demos/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm"></td>
+<td><img height="200" width="300" src="assets/demos/demo_3DES.png" alt="3D Electrostatics Simulator"></td>
+</tr>
+</table>
 
 </div>
 
